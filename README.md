@@ -190,8 +190,7 @@
             <li>แพง - <a href="https://www.instagram.com/paanq/" rel="nofollow">paanq</a> :cupid:</li>
             <li>pimpitsinee - <a href="https://www.instagram.com/pimpitsinee/" rel="nofollow">pimpitsinee</a> :cupid:</li>
             <li>tonkhawp - <a href="https://www.instagram.com/tonkhawp/" rel="nofollow">tonkhawp</a></li>
-        </ul><br>To restore the repository, download the bundle <tt>bachkukkik-awesome-thai-girls_-_2017-08-01_16-10-59.bundle</tt> and run:
-        <pre><code> git clone bachkukkik-awesome-thai-girls_-_2017-08-01_16-10-59.bundle -b master </code></pre> <br><br>Source: <a href="https://github.com/bachkukkik/awesome-thai-girls" rel="nofollow">https://github.com/bachkukkik/awesome-thai-girls</a><br>Uploader: <a href="https://github.com/bachkukkik" rel="nofollow">bachkukkik</a><br>Upload date: 2017-08-01
+        </ul>
     </div>
 </body>
 
