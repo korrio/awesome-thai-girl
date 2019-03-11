@@ -196,7 +196,7 @@
         	https://archive.org
         </a></p>
 
-        <p>Original contributors
+        <p>Original curators 
         <a href="https://github.com/bachkukkik">@bachkukkik</a>
 		 and <a href="https://github.com/titipata">@titipata</div></p>
     </div>
