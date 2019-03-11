@@ -195,7 +195,6 @@
         <a href="https://archive.org/details/github.com-bachkukkik-awesome-thai-girls_-_2017-08-01_16-10-59#awesome-thai-girls">
         	https://archive.org
         </a></p>
-
         <p>Original curators 
         <a href="https://github.com/bachkukkik">@bachkukkik</a>
 		 and <a href="https://github.com/titipata">@titipata</div></p>
