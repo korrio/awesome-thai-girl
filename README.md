@@ -7,7 +7,7 @@
 <body>
     <div id="descript" itemprop="description">
         <h1>Awesome Thai Girls</h1>
-        <p>A curated list of awesome Thai girls Instagram, Facebook, and other resources.This list is based on personal taste only. Your contributions are always welcome,we are on <a href="https://github.com/titipata/awesome-thai-girls" rel="nofollow">Github</a>!</p>
+        <p>A curated list of awesome Thai girls Instagram, Facebook, and other resources.This list is based on personal taste only. Your contributions are always welcome,originally on <a href="https://github.com/titipata/awesome-thai-girls" rel="nofollow">Github</a>!</p>
         <!-- <p>Inspired by the <a href="https://github.com/sindresorhus/awesome" rel="nofollow">awesome</a> list.Using template from <a href="https://github.com/donnemartin/awesome-aws" rel="nofollow">awesome-aws</a>,Jekyll template from <a href="https://github.com/shlomi-noach/awesome-mysql" rel="nofollow">awesome-mysql</a> andEmoji from <a href="http://ellekasai.github.io/twemoji-awesome/" rel="nofollow">twemoji-awesome</a>.</p> -->
         <h2>The Fiery Meter of How Popular</h2>
         <ul>
@@ -191,6 +191,14 @@
             <li>pimpitsinee - <a href="https://www.instagram.com/pimpitsinee/" rel="nofollow">pimpitsinee</a> :cupid:</li>
             <li>tonkhawp - <a href="https://www.instagram.com/tonkhawp/" rel="nofollow">tonkhawp</a></li>
         </ul>
+        <p>Original content restored from
+        <a href="https://archive.org/details/github.com-bachkukkik-awesome-thai-girls_-_2017-08-01_16-10-59#awesome-thai-girls">
+        	https://archive.org
+        </a></p>
+
+        <p>Original contributors
+        <a href="https://github.com/bachkukkik">@bachkukkik</a>
+		 and <a href="https://github.com/titipata">@titipata</div></p>
     </div>
 </body>
 
