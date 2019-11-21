@@ -80,6 +80,14 @@
             <li>Violette Wautier (วี วิโอเลต วอเทียร์) - <a href="https://www.instagram.com/violettewautier/" rel="nofollow">violettewautier</a> :fire:</li>
             <li>whan.p - <a href="https://www.instagram.com/whan.p/" rel="nofollow">whan.p</a></li>
             <li>∞ - <a href="https://www.instagram.com/bellesnvl/" rel="nofollow">bellesnvl</a></li>
+            <li>Thanita<a href="https://www.instagram.com/thanitacq/" rel="nofollow">thanitacq</a></li>
+            <li>pimtahontaz<a href="https://www.instagram.com/pimtahontaz/" rel="nofollow">pimtahontaz</a></li>
+            <li>porpiinn<a href="https://www.instagram.com/porpiinn/" rel="nofollow">porpiinn</a></li>
+            <li>qinrada.t<a href="https://www.instagram.com/qinrada.t/" rel="nofollow">qinrada.t</a></li>
+            <li>sugar.pp<a href="https://www.instagram.com/sugar.pp/" rel="nofollow">sugar.pp</a></li>
+            <li>wimmcq<a href="https://www.instagram.com/wimmcq/" rel="nofollow">wimmcq</a></li>
+            <li>Onkanya Pakpean (Mutmai)<a href="https://www.instagram.com/bunny.mutmai/" rel="nofollow">bunny.mutmai</a> :fire:</li>
+            <li>far_lol<a href="https://www.instagram.com/far_lol/" rel="nofollow">far_lol</a> :fire:</li>
         </ul>
         <h2>Chulalongkorn University</h2>
         <p><em>Number one undergrad school in the country, same to girls who are going there</em></p>
