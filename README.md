@@ -1,7 +1,12 @@
 <html>
 
 <head>
-    <meta charset="utf-8">
+	<meta charset="utf-8">
+	<meta property="og:url"                content="https://github.com/korrio/awesome-thai-girl" />
+	<meta property="og:type"               content="article" />
+	<meta property="og:title"              content="Awesome Thai Girls" />
+	<meta property="og:description"        content="Awesome Thai Girls" />
+	<meta property="og:image"              content="https://user-images.githubusercontent.com/7475592/135878586-60fadbef-65dd-40f0-a7a8-afe551e41d66.png" />
 </head>
 
 <body>
