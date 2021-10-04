@@ -7,7 +7,7 @@
 <body>
     <div id="descript" itemprop="description">
         <h1>Awesome Thai Girls</h1>
-        <p>A curated list of awesome Thai girls Instagram, Facebook, and other resources.This list is based on personal taste only. Your contributions are always welcome,originally on <a href="https://github.com/titipata/awesome-thai-girls" rel="nofollow">Github</a>!</p>
+        <p>A curated list of awesome Thai girls Instagram, Facebook, and other resources.This list is based on personal taste only. Your contributions are always welcome,originally on this <a href="https://github.com/titipata/awesome-thai-girls" rel="nofollow">Github</a> (deprecated/deleted)</p>
         <!-- <p>Inspired by the <a href="https://github.com/sindresorhus/awesome" rel="nofollow">awesome</a> list.Using template from <a href="https://github.com/donnemartin/awesome-aws" rel="nofollow">awesome-aws</a>,Jekyll template from <a href="https://github.com/shlomi-noach/awesome-mysql" rel="nofollow">awesome-mysql</a> andEmoji from <a href="http://ellekasai.github.io/twemoji-awesome/" rel="nofollow">twemoji-awesome</a>.</p> -->
         <h2>The Fiery Meter of How Popular</h2>
         <ul>
