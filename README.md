@@ -135,19 +135,15 @@
             <li>Phan - <a href="https://www.instagram.com/monsikarnn/" rel="nofollow">monsikarnn</a></li>
             <li>Praepanwa - <a href="https://www.instagram.com/praepanwa/" rel="nofollow">praepanwa</a></li>
             <li>:heart: NGARM :heart: permrathana - <a href="https://www.instagram.com/ngarmm/" rel="nofollow">ngarmm</a></li>
-            <li>Petcharat Kittinusorn - <a href="https://www.instagram.com/petcharat_nk/" rel="nofollow">petcharat_nk</a> :cupid:</li>
             <li>peanpyn - <a href="https://www.instagram.com/peanpyn/" rel="nofollow">peanpyn</a></li>
             <li>peemchyy - <a href="https://www.instagram.com/peemchyy/" rel="nofollow">peemchyy</a></li>
-            <li>Pitchaya Melody Pimsarn - <a href="https://www.instagram.com/plenganese/" rel="nofollow">plenganese</a> :cupid:</li>
             <li>ตุลยกมล - <a href="https://www.instagram.com/toonyakamon/" rel="nofollow">toonyakamon</a> :cupid:</li>
         </ul>
         <h2>Silpakorn University</h2>
         <p><em>Indie and hip girls go to this school located right in old town Bangkok,one of our favorite place to go</em></p>
         <ul>
             <li>Pavadee Komchokpaisan - <a href="https://www.instagram.com/cookpavadee/" rel="nofollow">cookpavadee</a> :fire: :cupid:</li>
-            <li>Leegade - <a href="https://www.instagram.com/gadd.de/" rel="nofollow">gadd.de</a></li>
             <li>Tonliu - <a href="https://www.instagram.com/morakotl/" rel="nofollow">morakotl</a> :cupid:</li>
-            <li>Prim Sasipat Orpipattana (พริ้ม) - <a href="https://www.instagram.com/pprimssipats/" rel="nofollow">pprimssipats</a></li>
             <li>Sumana k. - <a href="https://www.instagram.com/mookmooko/" rel="nofollow">mookmooko</a></li>
             <li>ppprapang - <a href="https://www.instagram.com/ppprapang/" rel="nofollow">ppprapang</a></li>
         </ul>
@@ -169,11 +165,8 @@
             <li>Grace Paksookchai - <a href="https://www.instagram.com/gracepaksookchai/" rel="nofollow">gracepaksookchai</a></li>
             <li>G.GY - <a href="https://www.instagram.com/gigiggy/" rel="nofollow">gigiggy</a></li>
             <li>Jane Ramida Jiranorraphat - <a href="https://www.instagram.com/janeeyeh/" rel="nofollow">janeeyeh</a> :fire:</li>
-            <li>J A C K I E - <a href="https://www.instagram.com/pjackiee/" rel="nofollow">pjackiee</a></li>
             <li><strong>poonnapa meckvichai</strong> - <a href="https://www.instagram.com/jajameck/" rel="nofollow">jajameck</a></li>
-            <li>JUNJUNE - <a href="https://www.instagram.com/junenopparat/" rel="nofollow">junenopparat</a> :cupid:</li>
             <li>Juuune.T - <a href="https://www.instagram.com/juuuuuune/" rel="nofollow">juuuuuune</a></li>
-            <li>k a i m u k :icecream: - <a href="https://www.instagram.com/kkaimuk/" rel="nofollow">kkaimuk</a> :cupid:</li>
             <li>Kaykai Salaider - <a href="https://www.instagram.com/kaykai_ntch/" rel="nofollow">kaykai_ntch</a> :fire:</li>
             <li>•P O R K U K U• - <a href="https://www.instagram.com/porkuku/" rel="nofollow">porkuku</a></li>
             <li>リー 。- <a href="https://www.instagram.com/lilyyly/" rel="nofollow">lilyyly</a> :sweat_drops::cupid:</li>
@@ -182,7 +175,6 @@
             <li>LOOGMAI 'KAMOLCHANOK' - <a href="https://www.instagram.com/loogmy/" rel="nofollow">loogmy</a></li>
             <li>Pantipa Arunwattanachai - <a href="https://www.instagram.com/pantipa.a/" rel="nofollow">pantipa.a</a>, <a href="https://www.facebook.com/Pui.pantipa" rel="nofollow">Pantipa</a> :sweat_drops::cupid::fire:</li>
             <li>Pariya Tippalert - <a href="https://www.instagram.com/mmmmemo/" rel="nofollow">mmmmemo</a></li>
-            <li>SITA. - <a href="https://www.instagram.com/ployyyes/" rel="nofollow">ployyyes</a></li>
         </ul>
         <h2>High School</h2>
         <p><em>"The world is moving too fast, or we're growing too slow" - bachkukkik</em></p>
@@ -190,7 +182,6 @@
             <li>Chin Jung - <a href="https://www.instagram.com/chinjungsq/" rel="nofollow">chinjungsq</a></li>
             <li>Jirawan Lamsam - <a href="https://www.instagram.com/lookkaewjrw/" rel="nofollow">lookkaewjrw</a></li>
             <li>KIKI - <a href="https://www.instagram.com/kikisitanan/" rel="nofollow">kikisitanan</a></li>
-            <li>pompam - <a href="https://www.instagram.com/pammpms/" rel="nofollow">pammpms</a></li>
             <li>แพง - <a href="https://www.instagram.com/paanq/" rel="nofollow">paanq</a> :cupid:</li>
             <li>pimpitsinee - <a href="https://www.instagram.com/pimpitsinee/" rel="nofollow">pimpitsinee</a> :cupid:</li>
             <li>tonkhawp - <a href="https://www.instagram.com/tonkhawp/" rel="nofollow">tonkhawp</a></li>
